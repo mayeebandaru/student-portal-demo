@@ -1,0 +1,4 @@
+Student details
+Name: Naga Sri Jyothirmayee Bandaru
+BCA
+I have learned how to store the files in the GitHub
